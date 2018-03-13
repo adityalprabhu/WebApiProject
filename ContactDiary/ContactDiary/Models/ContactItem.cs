@@ -1,6 +1,8 @@
 ﻿using System;
+
 namespace ContactDiary.Models
 {
+    //Model for ContactItem saved in the DB
     public class ContactItem
     {
         public long Id { get; set; }
