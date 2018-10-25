@@ -1,4 +1,7 @@
 # WebApiProjectMonster
+
+This is a Web API project I developed as a part of the interview process fror Internship at Monster Worldwide
+
 ContactDiary Web API project using ASP.NET (.NET core 2.0)
 
 Link to import Postman Collection: https://www.getpostman.com/collections/278c38e13a8d37941c2a
